@@ -1,0 +1,11 @@
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\bin\Debug\netcoreapp2.2\CSharpIntermediate_Classes.deps.json
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\bin\Debug\netcoreapp2.2\CSharpIntermediate_Classes.runtimeconfig.json
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\bin\Debug\netcoreapp2.2\CSharpIntermediate_Classes.runtimeconfig.dev.json
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\bin\Debug\netcoreapp2.2\CSharpIntermediate_Classes.dll
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\bin\Debug\netcoreapp2.2\CSharpIntermediate_Classes.pdb
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\obj\Debug\netcoreapp2.2\CSharpIntermediate_Classes.csprojAssemblyReference.cache
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\obj\Debug\netcoreapp2.2\CSharpIntermediate_Classes.csproj.CoreCompileInputs.cache
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\obj\Debug\netcoreapp2.2\CSharpIntermediate_Classes.AssemblyInfoInputs.cache
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\obj\Debug\netcoreapp2.2\CSharpIntermediate_Classes.AssemblyInfo.cs
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\obj\Debug\netcoreapp2.2\CSharpIntermediate_Classes.dll
+C:\Users\James Park\source\repos\CSharpIntermediate\CSharpIntermediate_Classes\CSharpIntermediate_Classes\obj\Debug\netcoreapp2.2\CSharpIntermediate_Classes.pdb
